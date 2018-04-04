@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2011-11-19T11:00:00-05:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>The ten tango commandments</title>
+    <link rel="alternate" href="http://blog.url.com/post/2011/11/top-ten-commandments/"/>
+    <id>http://blog.url.com/post/2011/11/top-ten-commandments/</id>
+    <published>2011-11-19T11:00:00-05:00</published>
+    <updated>2018-04-03T17:25:30-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Everything as fundamental to life as tango needs a moral code...&lt;/p&gt;
+
+&lt;h2&gt;transcript&lt;/h2&gt;
+
+&lt;p&gt;Have you lost your way in this world?&lt;/p&gt;
+
+&lt;p&gt;This big world or tango which leaves so many of us with existential
+unanswered questions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Who am I?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Why can&amp;#39;t I walk like Sebastian Achaval?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Do I really have an axis?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Should I be going to an advanced workshop after eight weeks of learning
+tango?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Why do I look like a 10 year old hanging from a supermarket trolley
+whenever I attempt to Colgada?&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;And what on earth is a Colgada in the first place?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fear not my brother.&lt;/p&gt;
+
+&lt;p&gt;My name is Kurt.
+I am your local tango evangelist and I have got some answers for you.&lt;/p&gt;
+
+&lt;p&gt;My ten tango commandments are all you need for a life of bliss and
+happiness for the rest of your dancing days.&lt;/p&gt;
+
+&lt;p&gt;Now lean back and listen well:&lt;/p&gt;
+
+&lt;h3&gt;First commandment&lt;/h3&gt;
+
+&lt;p&gt;Tango and tango alone is your God.
+Don&amp;#39;t even think about mentioning salsa or swing.&lt;/p&gt;
+
+&lt;h3&gt;Second commandment&lt;/h3&gt;
+
+&lt;p&gt;Thou shalt not put moving images of yourself practising tango on YouTube.
+They may be used against you when you have long forgotten about them.&lt;/p&gt;
+
+&lt;h3&gt;Third commandment&lt;/h3&gt;
+
+&lt;p&gt;Thou shalt not use the name of tango in vain --
+especially not in association with anything remotely resembling
+fishnet stockings, roses, ballroom dancing, or Antonio Banderas.&lt;/p&gt;
+
+&lt;h3&gt;Fourth commandment&lt;/h3&gt;
+
+&lt;p&gt;Remember the Sabbath.
+Six days of tango per week are quite enough.
+There is another form of life out there, in case you forgot.&lt;/p&gt;
+
+&lt;h3&gt;Fifth commandment&lt;/h3&gt;
+
+&lt;p&gt;Thou shalt honor your father and your mother.
+Spare them from the trauma of listening to your tales of perfect
+tandas and the chemistry of a good embrace.
+They wouldn&amp;#39;t understand.&lt;/p&gt;
+
+&lt;h3&gt;Sixth commandment&lt;/h3&gt;
+
+&lt;p&gt;Thou shalt not murder.
+Ladies, keep the control flows on the floor.&lt;/p&gt;
+
+&lt;h3&gt;Seventh commandment&lt;/h3&gt;
+
+&lt;p&gt;Thou shalt not commit adultery.
+Resist the temptation that all those smiles, compliments, and
+tender embraces in the tango world seem to suggest.&lt;/p&gt;
+
+&lt;h3&gt;Eighth commandment&lt;/h3&gt;
+
+&lt;p&gt;Thou shalt not steal teacher&amp;#39;s moves from the internet.
+He looks cool doing them; you will look like an idiot.&lt;/p&gt;
+
+&lt;h3&gt;Ninth commandment&lt;/h3&gt;
+
+&lt;p&gt;Thou shalt not bear false witness.
+Cut down on the insincere compliments,
+but if you have to bitch about everyone on the dance floor,
+at least do it discreetly.&lt;/p&gt;
+
+&lt;h3&gt;Tenth commandment&lt;/h3&gt;
+
+&lt;p&gt;Thou shalt not covet your neighbor&amp;#39;s instructional DVD,
+your DJ&amp;#39;s new Canaro CD, or your teacher&amp;#39;s black and white
+tango shoes -- get your own.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Tango truths: why men dance and women sit</title>
+    <link rel="alternate" href="http://blog.url.com/post/2011/10/why-man-dance-woman-sit/"/>
+    <id>http://blog.url.com/post/2011/10/why-man-dance-woman-sit/</id>
+    <published>2011-10-28T12:00:00-04:00</published>
+    <updated>2018-04-03T18:54:55-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Just another night at a big city milonga&lt;/p&gt;
+
+&lt;h2&gt;transcript&lt;/h2&gt;
+
+&lt;p&gt;A: Hey man, good to see you.
+How are things?&lt;/p&gt;
+
+&lt;p&gt;B: All good, thanks.  And yourself?&lt;/p&gt;
+
+&lt;p&gt;A: Couldn&amp;#39;t be better.
+The work is done for the week and now it&amp;#39;s tango
+all night long.&lt;/p&gt;
+
+&lt;p&gt;B: Look at all those gorgeous followers sitting over there.&lt;/p&gt;
+
+&lt;p&gt;A: Amazing!&lt;/p&gt;
+
+&lt;p&gt;B: Awesome.&lt;/p&gt;
+
+&lt;p&gt;A: There is a new lady too.  Have you seen her before?&lt;/p&gt;
+
+&lt;p&gt;B: Never, but I heard she is from Detroit.
+You should dance with her.&lt;/p&gt;
+
+&lt;p&gt;A: I should, but I&amp;#39;ll wait until I have seen her dance.
+Better safe than sorry.  Why don&amp;#39;t you ask her first?&lt;/p&gt;
+
+&lt;p&gt;B: I should, but I had to work through my virtual
+favorites list: DiSarli with Jessica, D&amp;#39;Arienzo with
+Francesca,  a vals tanda with Jill.
+I am booked for an hour.&lt;/p&gt;
+
+&lt;p&gt;A: I know, mate, it&amp;#39;s tough being a guy.
+If I don&amp;#39;t dance with my usual ladies, I get the nasty
+looks next milonga.&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;one hour later&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;A: How is the list going?&lt;/p&gt;
+
+&lt;p&gt;B: I am through most of my compulsory dances.
+Look at this: the new lady still hasn&amp;#39;t danced yet.&lt;/p&gt;
+
+&lt;p&gt;A: That&amp;#39;s horrible.
+Poor lady, she probably traveled for hours to get here.
+You should ask her for a dance.&lt;/p&gt;
+
+&lt;p&gt;B: I should, but it&amp;#39;s a milonga tanda.
+That&amp;#39;s never a good set to start with.&lt;/p&gt;
+
+&lt;p&gt;A: I agree.&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;A new girl enters&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;A: Holy jesus!&lt;/p&gt;
+
+&lt;p&gt;B: God almighty!&lt;/p&gt;
+
+&lt;p&gt;A: Who is this? Look at those legs,&lt;/p&gt;
+
+&lt;p&gt;B: And the long hair.
+She can&amp;#39;t be older than 25, and the skirt hardly
+covers her bum.
+Tasteless, but why not.&lt;/p&gt;
+
+&lt;p&gt;A: Look! The way she just smiled at me.
+I have no idea who she is, but I will dance
+with her right now.&lt;/p&gt;
+
+&lt;p&gt;B: She was clearly looking at me,
+so excuse me momentarily.&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;one hour later&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;B: Wow.&lt;/p&gt;
+
+&lt;p&gt;A: Huh? That was hard work.
+I followed her around for an hour to be in a good position
+for a cabeceo but it worked in the end.&lt;/p&gt;
+
+&lt;p&gt;B: Tell me about it.
+It seems all the men have gone bonkers all of a sudden.
+How was it?&lt;/p&gt;
+
+&lt;p&gt;A: Her dancing is rubbish.
+But with those legs, who cares?
+She is hot, I tell you.&lt;/p&gt;
+
+&lt;p&gt;B: Look, our lady from Detroit still hasn&amp;#39;t danced.
+That&amp;#39;s criminal. Why don&amp;#39;t you dance with her?&lt;/p&gt;
+
+&lt;p&gt;A: I should, but this is Troilo playing,
+it&amp;#39;s really not my cup of tea.&lt;/p&gt;
+
+&lt;p&gt;B: Fair enough.
+It&amp;#39;s not my favorite either.
+Oh excuse me, I think I just got a cabeceo from Kelly.&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;one hour later. La Cumparsita. last tanda.&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;B: Wow, the evening went fast.
+It&amp;#39;s hard work keeping the ladies happy.&lt;/p&gt;
+
+&lt;p&gt;A: I hear you.
+We selflessly give away our tango gift for the greater good.&lt;/p&gt;
+
+&lt;p&gt;B: Did you notice: the lady from Detroit finally danced
+a tanda?&lt;/p&gt;
+
+&lt;p&gt;A: Yes. With Floyd the furniture mover.
+Not exactly the stuff tango dreams are made of.&lt;/p&gt;
+
+&lt;p&gt;B: Poor lady. She actually dances very nicely.
+She deserves better than that.&lt;/p&gt;
+
+&lt;p&gt;A: Yes. Floyd told me that she is a tango teacher.&lt;/p&gt;
+
+&lt;p&gt;B: that tango teacher?
+Bloody Floyd!
+Couldn&amp;#39;t he have asked her for a dance earlier?&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Tango versus Salsa</title>
+    <link rel="alternate" href="http://blog.url.com/post/2011/04/tango-vs-salsa/"/>
+    <id>http://blog.url.com/post/2011/04/tango-vs-salsa/</id>
+    <published>2011-04-10T12:00:00-04:00</published>
+    <updated>2018-04-03T19:57:47-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;There is a good reason why these two exquisite dance forms
+are usually kept well away from each other.&lt;/p&gt;
+
+&lt;h2&gt;transcript&lt;/h2&gt;
+
+&lt;p&gt;T: Excuse me -- I was under the impression that there
+was a milonga here tonight.&lt;/p&gt;
+
+&lt;p&gt;S: A what?&lt;/p&gt;
+
+&lt;p&gt;T: A milonga -- you know, tango dancing?&lt;/p&gt;
+
+&lt;p&gt;S: Oh no.
+Thank God it&amp;#39;s Wednesday -- tonight is salsa night.
+Tango was yesterday.&lt;/p&gt;
+
+&lt;p&gt;T: Oh no, I missed the tango.&lt;/p&gt;
+
+&lt;p&gt;S: You should be glad. You look like you can do
+with a few happy hormones anyway.&lt;/p&gt;
+
+&lt;p&gt;T: Thank you, but salsa is really not my cup of tea.&lt;/p&gt;
+
+&lt;p&gt;S: Too much fun, right? I can always tell the difference.
+A salsa dancer comes in the room and it&amp;#39;s like:
+yay, let&amp;#39;s party.
+A tango dancer comes in with a stone face and goes,
+okay, this is so deep and meaningful, let&amp;#39;s be serious.
+It&amp;#39;s like you are all craving depression.
+Just imagine listening to music all night that goes on
+about how crappy life is.
+Salsa music on the other hand ...&lt;/p&gt;
+
+&lt;p&gt;T: Salsa music on the other hand is invariably about a
+conceited chauvinistic ass who thinks he is God&amp;#39;s gift
+to women.
+And while he sings about his poor Alma and Corazon, the
+trumpets blow your ears off twice per minute in
+celebration of his manliness.&lt;/p&gt;
+
+&lt;p&gt;S: Salsa is like a chick flick: good, predictable and
+unadulterated fun.
+Tango is like a pretentious Swedish art house movie:
+nobody gets it, but if you don&amp;#39;t want to look stupid
+afterwards, you pretend that you found it truly
+intriguing.&lt;/p&gt;
+
+&lt;p&gt;T: That must be the reason why in salsa, conversations
+start with &amp;#39;how are you&amp;#39; and they end with &amp;#39;good&amp;#39;.
+Tango people at least have something to talk about.&lt;/p&gt;
+
+&lt;p&gt;S: Like their retirement funds, or their grandchildren?&lt;/p&gt;
+
+&lt;p&gt;T: At least in tango you don&amp;#39;t have to fight off sleazebags
+all night long, who want to give you private lessons, and
+send you 50 text messages the next day saying how
+beautiful you are.&lt;/p&gt;
+
+&lt;p&gt;S: It is kind of cute.&lt;/p&gt;
+
+&lt;p&gt;T: It&amp;#39;s tacky. Tango is like making love, salsa is
+like having sex -- no subtlety.
+I am a grown-up woman and not a teenager.&lt;/p&gt;
+
+&lt;p&gt;S: What do you mean tacky?&lt;/p&gt;
+
+&lt;p&gt;T: I am NOT looking at anyone. (&lt;em&gt;folds arms
+and stare at B&amp;#39;s dress&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;S: Women in salsa look sexy.
+Women in tango look like a sack of potatoes hanging
+from the neck of a guy who could be their father.&lt;/p&gt;
+
+&lt;p&gt;T: In ten years when you get your first wrinkles and the
+saggy bum, the womanizing salsa gods you dance with
+now will still seduce twenty year olds.&lt;/p&gt;
+
+&lt;p&gt;S: In ten years the men you dance with will be
+spoon-fed by a nurse.&lt;/p&gt;
+
+&lt;p&gt;T: Oh my god. What is this?&lt;/p&gt;
+
+&lt;p&gt;S: Ah, you are lucky -- they are dancing bachata tango.
+Now you can show us your moves.&lt;/p&gt;
+
+&lt;p&gt;T: This has got to be a bad marketing ploy --
+salsa people wanting to add some spice and passion with
+a few ganchos? That&amp;#39;s almost as bad as Zumba.&lt;/p&gt;
+
+&lt;p&gt;S: I love Zumba.&lt;/p&gt;
+
+&lt;p&gt;T: One day they will even come up with a salsa version of
+El Choclo.&lt;/p&gt;
+
+&lt;p&gt;S: Did you know that the corn cob in El Choclo is really
+just a phallic symbol?&lt;/p&gt;
+
+&lt;p&gt;T: Um no I did not.&lt;/p&gt;
+
+&lt;p&gt;S: Now is that tacky or what?
+But don&amp;#39;t worry -- I am NOT looking at anyone.&lt;/p&gt;
+</content>
+  </entry>
+</feed>
