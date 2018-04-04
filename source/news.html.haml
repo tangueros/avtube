@@ -14,6 +14,7 @@ per_page: 12
       - if prev_page
         %p= link_to 'Previous page', prev_page
 
+    %h3 Tango Cynic
     %ul.list-group
       - page_articles.each_with_index do |article, i|
         - v = article.data[:video]
