@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    backports (3.11.1)
+    backports (3.11.3)
     builder (3.2.3)
     coffee-script (2.4.1)
       coffee-script-source
@@ -18,7 +18,7 @@ GEM
       sass (>= 3.2, < 3.5)
     concurrent-ruby (1.0.5)
     contracts (0.13.0)
-    dotenv (2.2.1)
+    dotenv (2.3.0)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -95,7 +95,7 @@ GEM
     parallel (1.12.1)
     public_suffix (3.0.2)
     rack (2.0.4)
-    rack-livereload (0.3.16)
+    rack-livereload (0.3.17)
       rack
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
@@ -124,4 +124,4 @@ DEPENDENCIES
   redcarpet (~> 3.3.2)
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
